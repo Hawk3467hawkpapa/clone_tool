@@ -87,7 +87,7 @@ fetch("http://localhost:7071/log", ...)
 TO:
 
 ```js
-fetch("https://78590781443e.ngrok-free.app/log", ...)
+fetch("ur URL from ngrok/log", ...)
 ```
 
 Then re-run the server:
